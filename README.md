@@ -5,8 +5,8 @@
 ## 2. UCD
 - [ ] Update UCD
 ## 3. Spesifikasi Use Case
-- [ ] Melihat Puskesmas
-- [ ] Melihat Posyandu
+- [x] Melihat Puskesmas
+- [x] Melihat Posyandu
 - [x] Melihat Jadwal Puskesmas
 - [x] Melihat Jadwal Posyandu
 - [x] Melihat Jadwal Dokter
@@ -14,30 +14,32 @@
 - [x] Menentukan Jadwal Posyandu
 - [x] Menentukan Jadwal Puskesmas
 - [x] Membuat Janji
-- [ ] Melihat Janji
+- [x] Melihat Janji
 - [x] Menghapus Janji
-- [ ] Login
+- [x] Login
 - [x] Register
 - [x] Menambah akun
 - [x] Menghapus akun
 - [x] Mengubah akun
+- [x] Mengubah status verifikasi janji
 ## 4. Activity Diagram
-- [ ] Melihat Puskesmas
-- [ ] Melihat Posyandu
+- [x] Melihat Puskesmas
+- [x] Melihat Posyandu
 - [x] Melihat Jadwal Puskesmas
 - [x] Melihat Jadwal Posyandu
 - [ ] Melihat Jadwal Dokter
 - [x] Menentukan Jadwal Dokter
 - [x] Menentukan Jadwal Posyandu
 - [x] Menentukan Jadwal Puskesmas
-- [ ] Membuat Janji
-- [ ] Melihat Janji
+- [x] Membuat Janji
+- [x] Melihat Janji
 - [x] Menghapus Janji
-- [ ] Login
+- [x] Login
 - [x] Register
 - [ ] Menambah akun
 - [ ] Menghapus akun
 - [ ] Mengubah akun
+- [x] Mengubah status verifikasi janji
 ## 5. Class Diagram
 - [ ] Class Diagram
 ## 6. Sequence Diagram
@@ -57,6 +59,7 @@
 - [ ] Menambah akun
 - [ ] Menghapus akun
 - [ ] Mengubah akun
+- [ ] Mengubah status verifikasi janji
 ## 7. Data model
 - [ ] CDM
 - [ ] PDM
