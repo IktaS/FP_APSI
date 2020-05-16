@@ -27,7 +27,7 @@
 - [x] Melihat Posyandu
 - [x] Melihat Jadwal Puskesmas
 - [x] Melihat Jadwal Posyandu
-- [ ] Melihat Jadwal Dokter
+- [x] Melihat Jadwal Dokter
 - [x] Menentukan Jadwal Dokter
 - [x] Menentukan Jadwal Posyandu
 - [x] Menentukan Jadwal Puskesmas
