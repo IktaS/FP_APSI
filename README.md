@@ -3,7 +3,7 @@
 - [ ] Deskripsi
 - [ ] Kebutuhan Pengguna
 ## 2. UCD
-- [ ] Update UCD
+- [x] Update UCD
 ## 3. Spesifikasi Use Case
 - [x] Melihat Puskesmas
 - [x] Melihat Posyandu
@@ -36,9 +36,9 @@
 - [x] Menghapus Janji
 - [x] Login
 - [x] Register
-- [ ] Menambah akun
-- [ ] Menghapus akun
-- [ ] Mengubah akun
+- [x] Menambah akun
+- [x] Menghapus akun
+- [x] Mengubah akun
 - [x] Mengubah status verifikasi janji
 ## 5. Class Diagram
 - [ ] Class Diagram
